@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  padding: 1.5em;
+}
+
+.contentImg {
+  padding-bottom: 3em;
+}
+
+#contact {
+  background-color: #FA8072;
+  text-align: center;
+}
+
+#titleSection {
+  color: white;
+}
+
+footer {
+  text-align: center;
+}
+
+.fab {
+  padding: 1em;
+}
+
+.btn-primary {
+  margin: 1em;
+}
